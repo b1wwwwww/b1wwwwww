@@ -40,14 +40,12 @@
 
 ## 📌 Featured Projects
 
-### 📖 Digital Library App
-A simple library management application built with HTML, CSS, and JavaScript.
-
-### 📝 To-Do List App
-Interactive task management application using JavaScript DOM.
-
-### 🛒 NusaMart (Future Project)
-E-commerce platform for Indonesian local products and UMKM.
+-
+-
+-
+-
+-
+- coming soon
 
 ---
 
