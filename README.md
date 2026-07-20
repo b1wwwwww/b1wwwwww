@@ -1,13 +1,54 @@
-# Hi there, I'm Nabil 👋
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🌊 Animated Wave
 
-🎓 RPL Student at SMKN 1 Katapang
+             Hi, I'm Nabil 👋
+      Backend Developer in Progress
 
-💻 Aspiring Backend Developer
+      💻 Node.js
+      ☁️ Learning Cloud
+      🚀 Future Full Stack Developer
 
-☁️ Future Cloud Engineer
+Typing Animation...
+----------------------------------------
 
----
+🙋 About Me
 
-## 🚀 About Me
+📍 Indonesia
+🎓 Vocational High School
+🎯 Backend Engineer
 
 
+----------------------------------------
+
+🛠 Tech Stack
+
+HTML CSS JS
+Node Express
+PHP Laravel
+Git GitHub
+MongoDB
+MySQL
+
+----------------------------------------
+
+📈 GitHub Stats
+
+████████████████
+
+🔥 Streak
+
+████████████████
+
+📊 Top Languages
+
+████████████████
+
+----------------------------------------
+
+📅 Contribution Snake
+
+🐍🐍🐍🐍🐍
+
+----------------------------------------
+
+🌊 Animated Footer
