@@ -6,7 +6,7 @@ A passionate Full-Stack Developer who loves building web applications and explor
 
 ### 🐍 Contribution Snake
 <!-- Ganti USERNAME_KAMU dengan username GitHub kamu -->
-![Github Snake](https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-contribution-grid-snake-dark.svg)
+![Github Snake](https://raw.githubusercontent.com/b1wwwww/b1wwwww/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
