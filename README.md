@@ -6,7 +6,7 @@ A passionate Full-Stack Developer who loves building web applications and explor
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/b1wwwww/b1wwwww/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/b1wwwwww/b1wwwwww/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
