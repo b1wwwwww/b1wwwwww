@@ -1,11 +1,10 @@
-# Hi there, I'm [Nabil Yusra Azura Pratama] 👋
+# Hi there, I'm Nabil Yusra Azura Pratama 👋
 
 A passionate Full-Stack Developer who loves building web applications and exploring new technologies.
 
 ---
 
 ### 🐍 Contribution Snake
-<!-- Ganti USERNAME_KAMU dengan username GitHub kamu -->
 ![Github Snake](https://raw.githubusercontent.com/b1wwwww/b1wwwww/output/github-contribution-grid-snake-dark.svg)
 
 ---
@@ -33,15 +32,10 @@ A passionate Full-Stack Developer who loves building web applications and explor
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Ganti USERNAME_KAMU dengan username GitHub kamu -->
-  <img src="https://github-readme-stats.vercel.app/api?username=b1wwwwww&show_icons=true&theme=radial&rank_icon=percentile" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1wwwwww&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=b1wwwww&show_icons=true&theme=radial&rank_icon=percentile" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1wwwww&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b1wwwwww&theme=radial" alt="GitHub Streak" width="96%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b1wwwww&theme=radial" alt="GitHub Streak" width="96%" />
 </p>
-
----
-
-📫 **How to reach me:** [nabilazura3@gmail.com] | [LinkedIn Profile]
