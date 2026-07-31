@@ -1,7 +1,6 @@
 # Hi there, I'm Nabil Yusra Azura Pratama 👋
 
-A passionate Full-Stack Developer who loves building web applications and exploring new technologies.
-
+A passionate Full-Stack Developer 
 ---
 
 ### 🐍 Contribution Snake
