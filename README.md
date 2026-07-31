@@ -5,7 +5,9 @@ A passionate Full-Stack Developer who loves building web applications and explor
 ---
 
 ### 🐍 Contribution Snake
-![Github Snake](https://raw.githubusercontent.com/b1wwwww/b1wwwww/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/b1wwwww/b1wwwww/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 ---
 
@@ -32,10 +34,10 @@ A passionate Full-Stack Developer who loves building web applications and explor
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b1wwwww&show_icons=true&theme=radial&rank_icon=percentile" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1wwwww&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=b1wwwww&show_icons=true&theme=radial&rank_icon=percentile" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=b1wwwww&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b1wwwww&theme=radial" alt="GitHub Streak" width="96%" />
+  <img src="https://streak-stats.demolab.com/?user=b1wwwww&theme=radial" alt="GitHub Streak" width="96%" />
 </p>
