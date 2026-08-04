@@ -38,5 +38,5 @@ A passionate Full-Stack Developer
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=b1wwwwww&show_icons=true&theme=tokyonight&rank_icon=percentile" alt="GitHub Stats" width="49%" />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=b1wwwwww&theme=tokyonight" alt="GitHub Streak" width="98%" />
+  <img src="https://streak-stats.demolab.com/?username=b1wwwwww&theme=tokyonight" alt="GitHub Streak" width="98%" />
 </p>
