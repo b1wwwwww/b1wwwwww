@@ -1,12 +1,11 @@
 # Hi there, I'm Nabil Yusra Azura Pratama 👋
 
-A passionate Full-Stack Developer 
+A passionate Full-Stack Developer
 
 ---
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <!-- Ular menggunakan file SVG -dark untuk latar gelap -->
   <img src="https://raw.githubusercontent.com/b1wwwwww/b1wwwwww/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
@@ -35,9 +34,8 @@ A passionate Full-Stack Developer
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Tambahan &theme=tokyonight atau &theme=dark agar kotaknya berwarna gelap -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=b1wwwwww&show_icons=true&theme=tokyonight&rank_icon=percentile" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=b1wwwwww&layout=compact&theme=tokyonight" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=b1wwwwww&show_icons=true&theme=tokyonight&rank_icon=percentile" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1wwwwww&layout=compact&theme=tokyonight" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
