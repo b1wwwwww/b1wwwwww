@@ -34,8 +34,8 @@ A passionate Full-Stack Developer
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b1wwwwww&show_icons=true&theme=tokyonight&rank_icon=percentile" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1wwwwww&layout=compact&theme=tokyonight" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.azurewebsites.net/api?username=b1wwwwww&show_icons=true&theme=tokyonight&rank_icon=percentile" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=b1wwwwww&layout=compact&theme=tokyonight" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
