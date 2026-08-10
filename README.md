@@ -7,7 +7,7 @@ A passionate Full-Stack Developer
 ### 🐍 Contribution Snake
 <p align="center">
   <!-- Ular menggunakan file SVG -dark untuk latar gelap -->
-  <img src="https://raw.githubusercontent.com/b1wwwww/b1wwwwww/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/b1wwwwww/b1wwwwww/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
