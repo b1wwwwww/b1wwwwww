@@ -7,7 +7,7 @@ A passionate Full-Stack Developer
 ### 🐍 Contribution Snake
 <p align="center">
   <!-- Ular menggunakan file SVG -dark untuk latar gelap -->
-  <img src="https://raw.githubusercontent.com/b1wwwww/b1wwwww/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/b1wwwww/b1wwwwww/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -36,10 +36,10 @@ A passionate Full-Stack Developer
 
 <p align="center">
   <!-- Tambahan &theme=tokyonight atau &theme=dark agar kotaknya berwarna gelap -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=b1wwwww&show_icons=true&theme=tokyonight&rank_icon=percentile" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=b1wwwww&layout=compact&theme=tokyonight" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=b1wwwwww&show_icons=true&theme=tokyonight&rank_icon=percentile" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=b1wwwwww&layout=compact&theme=tokyonight" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=b1wwwww&theme=tokyonight" alt="GitHub Streak" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=b1wwwwww&theme=tokyonight" alt="GitHub Streak" width="98%" />
 </p>
