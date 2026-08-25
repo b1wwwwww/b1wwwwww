@@ -1,4 +1,4 @@
-# Hi there, I'm Nabil Yusra Azura Pratama 👋
+# Hi there, I'm Nabil 
 
 A passionate Full-Stack Developer
 
